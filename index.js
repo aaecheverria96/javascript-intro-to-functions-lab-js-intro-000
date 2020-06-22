@@ -20,6 +20,6 @@ if (sentence == "I love you, Grandma."){
   } else if (sentence == whisper(sentence)){
   return "I can't hear you!"
   } else if (sentence == shout(sentence)){
-  return "YES INDEED"
+  return "YES INDEED!"
   }
 }
